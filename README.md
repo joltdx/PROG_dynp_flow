@@ -1,2 +1,3 @@
-# Template
-Template for abapGit CI Tests
+# PROG_dynp_flow
+
+Program with separate ABAP files for dynpro flow logic
