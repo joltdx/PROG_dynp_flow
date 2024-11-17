@@ -1,0 +1,15 @@
+{
+  "name": "prog_dynp_flow",
+  "version": "0.0.1",
+  "description": "test linting of screen .abap files",
+  "scripts": {
+    "lint": "abaplint"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@abaplint/cli": "^2.113.56",
+    "@abaplint/runtime": "^2.10.20",
+    "@abaplint/database-sqlite": "^2.10.20",
+    "@abaplint/transpiler-cli": "^2.10.20"
+  }
+}
